@@ -8,18 +8,28 @@ hero:
   tagline:
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: What is Cyn?
+      link: /guide/what-is-cyn
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Quickstart
+      link: /guide/getting-started
+    - theme: alt
+      text: GitHub
+      link: https://github.com/CynToolkit/cyn
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Desktop app guides
+    details: Learn how to use Cyn on your desktop
+    link: /guide/app
+    icon: 💻
+  - title: Integration guides
+    details: Learn how to integrate Cyn into your workflow
+    link: /guide/integration
+    icon: 🔌
+  - title: API reference
+    details: Learn how to use Cyn's API
+    link: /api/cyn
+    icon: 📖
+
 ---
 
