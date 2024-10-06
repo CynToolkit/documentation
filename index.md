@@ -11,7 +11,7 @@ hero:
       text: What is Pipelab?
       link: /guide/what-is-pipelab
     - theme: alt
-      text: Quickstart
+      text: Getting started
       link: /guide/getting-started
     - theme: alt
       text: GitHub
