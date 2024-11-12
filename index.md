@@ -15,7 +15,7 @@ hero:
       link: /guide/getting-started
     - theme: alt
       text: GitHub
-      link: https://github.com/CynToolkit/cyn
+      link: https://github.com/CynToolkit/pipelab
 
 features:
   - title: Desktop app guides

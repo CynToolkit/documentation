@@ -45,7 +45,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/CynToolkit/cyn' }
+      { icon: 'github', link: 'https://github.com/CynToolkit/pipelab' }
     ],
     footer: {
       message: 'Released under the MIT License.',
