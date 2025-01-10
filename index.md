@@ -24,7 +24,7 @@ features:
     icon: 💻
   - title: Integration guides
     details: Learn how to integrate Pipelab into your workflow
-    link: /guide/integration
+    link: /guide/integrations
     icon: 🔌
   - title: API reference
     details: Learn how to use Pipelab's API

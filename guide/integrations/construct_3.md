@@ -1,3 +1,7 @@
+---
+category: integrations
+---
+
 # Construct 3
 
 ## Features
