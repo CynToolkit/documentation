@@ -9,7 +9,7 @@ Pipelab is a task automation software that allow game developers to handle commo
 ## Use cases
 - Store publication
 
-    Easily publish your game to supported stores such as [Steam](/guide/integrations/steam.md), [Itch.io](/guide/integrations/itch_id.md) or the [Epic Game Store](/guide/integrations/epic_game_store.md).
+    Easily publish your game to supported stores such as [Steam](/guide/integrations/steam.md), [Itch.io](/guide/integrations/itch_io.md) or the [Epic Game Store](/guide/integrations/epic_game_store.md).
 
 - Game packaging
 
@@ -21,4 +21,4 @@ Pipelab is a task automation software that allow game developers to handle commo
 
 - Automatic editor handling
 
-    Automatically export your game from editors such as [Godot](/guide/integrations/godo.md), [Construct 3](/guide/integrations/construct_3.md), [Unity](/guide/integrations/unity.md) or [GDevelop](/guide/integrations/gdevelop.md).
+    Automatically export your game from editors such as [Godot](/guide/integrations/godot.md), [Construct 3](/guide/integrations/construct_3.md), [Unity](/guide/integrations/unity.md) or [GDevelop](/guide/integrations/gdevelop.md).
