@@ -20,7 +20,7 @@ hero:
 features:
   - title: Desktop app guides
     details: Learn how to use Pipelab on your desktop
-    link: /guide/app
+    link: /guide/usage
     icon: 💻
   - title: Integration guides
     details: Learn how to integrate Pipelab into your workflow
