@@ -112,4 +112,7 @@ export default defineConfig({
       copyright: 'Copyright © 2024-present Armaldio'
     }
   },
+  head: [
+    ['script', { src: 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs', type: "module" }],
+  ]
 })

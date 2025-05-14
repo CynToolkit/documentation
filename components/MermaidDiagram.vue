@@ -1,27 +1,15 @@
 <template>
-<pre class="diagram mermaid" ref="diagramEl">
-{{ modelValue }}</pre>
+    <div
+        class="mermaid"
+    >
+        {{ modelValue  }}
+    </div>
 </template>
 
 <script lang="ts" setup>
-import mermaid from 'mermaid'
-import { onMounted, useTemplateRef } from 'vue';
-
-mermaid.initialize({ startOnLoad: false })
+import { onMounted, ref, useTemplateRef } from 'vue';
 
 const { modelValue } = defineProps<{ modelValue: string }>()
-
-const diagramEl = useTemplateRef('diagramEl')
-
-console.log('modelValue', modelValue)
-
-onMounted(() => {
-    mermaid.run({
-        nodes: [diagramEl.value!],
-    })
-})
 </script>
 
-<style lang="scss" scoped>
-
-</style>
+<style lang="scss" scoped></style>
