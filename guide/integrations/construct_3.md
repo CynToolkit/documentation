@@ -18,6 +18,6 @@ You must enter your username and password to avoid being restricted by Construct
 Additionally, you must specify the path to your browser's data to reuse your installed Construct 3 plugins.
 
 ## Integration
-Pipelab integrate within Construct 3 by using a plugin. You can download it [here](https://github.com/CynToolkit/construct-plugin/releases).
+Pipelab integrate within Construct 3 by using a plugin. You can download it [from Github](https://github.com/CynToolkit/construct-plugin/releases) or [from the Construct website](https://www.construct.net/en/make-games/addons/1415/pipelab).
 
 Once installed, the only required thing you have to do is to run the `Initialize integration` action.
