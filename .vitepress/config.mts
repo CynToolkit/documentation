@@ -86,6 +86,10 @@ export default defineConfig({
         ]
       },
       {
+        text: 'FAQ',
+        link: "/faq"
+      },
+      {
         text: 'Team',
         link: "/team"
       }
