@@ -90,6 +90,10 @@ export default defineConfig({
         link: "/faq"
       },
       {
+        text: 'Architecture',
+        link: "/architecture"
+      },
+      {
         text: 'Team',
         link: "/team"
       }
