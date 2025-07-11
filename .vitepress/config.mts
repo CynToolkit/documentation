@@ -94,6 +94,10 @@ export default defineConfig({
         link: "/architecture"
       },
       {
+        text: 'Roadmap',
+        link: "/roadmap"
+      },
+      {
         text: 'Team',
         link: "/team"
       }
@@ -121,6 +125,6 @@ export default defineConfig({
     }
   },
   head: [
-    ['script', { src: 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs', type: "module" }],
+    ['script', { src: '/scripts/mermaid.esm.js', type: "module" }],
   ]
 })
