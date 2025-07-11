@@ -1,0 +1,9 @@
+[tools]
+node = "24"
+
+[tasks.generate-mermaid]
+run = [
+    "pnpm mmdc -i assets/architecture/architecture.mermaid -o assets/architecture/architecture.svg",
+    "pnpm mmdc -i assets/roadmap.mermaid -o assets/roadmap.svg",
+    "pnpm mmdc -i assets/engine-choose.mermaid -o assets/engine-choose.svg"
+]

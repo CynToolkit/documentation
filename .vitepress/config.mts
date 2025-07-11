@@ -124,7 +124,4 @@ export default defineConfig({
       copyright: 'Copyright © 2024-present Armaldio'
     }
   },
-  head: [
-    ['script', { src: '/scripts/mermaid.esm.js', type: "module" }],
-  ]
 })
