@@ -24,6 +24,10 @@ Only the Configuration part.
 The same as the previous task but the configuration is a single parameter.
 
 ## FAQ
+> Which version of Electron is used when no version is specified?
+>
+The default version is the one specified in the [Pipelab repository](https://github.com/CynToolkit/pipelab/blob/develop/assets/electron/template/app/package.json#L27).
+
 > Will my game show the little browser bubble when going fullscreen
 >
 No
