@@ -86,6 +86,10 @@ export default defineConfig({
         ]
       },
       {
+        text: 'API',
+        link: "/api"
+      },
+      {
         text: 'FAQ',
         link: "/faq"
       },

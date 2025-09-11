@@ -1,4 +1,5 @@
 # Electron
+
 ## Features
 - Web based project packaging
 - Installer creation
@@ -18,8 +19,10 @@ Start the app by loading an URL. You can use it to preview your game using [Cons
 
 ## Advanced
 You may want to reuse your existing Electron configuration. You can do so by using the separate Package and Configure tasks.
+
 ## Configure Electron
 Only the Configuration part.
+
 ## Create package
 The same as the previous task but the configuration is a single parameter.
 
