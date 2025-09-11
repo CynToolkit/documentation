@@ -39,3 +39,7 @@ No
 >
 If you use the [native Javascript API](https://developer.mozilla.org/en-US/docs/Web/API/Element/requestFullscreen), **Yes** \
 If you use the Pipelab fullscreen action, **No**
+
+> I get an error about module not found and Steamworks when running the game
+>
+Install [Microsoft redistributables](https://www.microsoft.com/fr-fr/download/details.aspx?id=48145)
