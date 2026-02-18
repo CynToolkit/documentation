@@ -4,7 +4,7 @@
 | :------------------------- | :--------------- | :---------------------------------------------------------------------- |
 | Steam Remote Play Together | Any              |                                                 |
 | Steam Overlay              | Any              |  |
-| Steam Input                | Electron 26 max  | Issues with Electron 27+ (Windows).                                     |
+| Steam Input                | Any  | Fixed by Steam (09/09/2025)                                  |
 | OBS recording | Any | |
 | Custom icons | Any | |
 ---
@@ -46,3 +46,4 @@
 | Electron | ✔️      | ✔️    | ✔️    | ❌      | ❌  | ✔️        |
 | Tauri    | ✔️      | ✔️    | ✔️    | ❌      | ❌  | ✔️        |
 | Discord  | ✔️      | ✔️    | ✔️    | ✔️      | ❌  | ✔️        |
+
